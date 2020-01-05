@@ -11,6 +11,7 @@
 |122|[best-time-to-buy-and-sell-stock-ii](problems/122.best-time-to-buy-and-sell-stock-ii.md)|2020-01-02|
 |1029|[two-city-scheduling](problems/1029.two-city-scheduling.md)|2020-01-03|
 |455|[assign-cookies](problems/455.assign-cookies.md)|2020-01-04|
+|714|[best-time-to-buy-and-sell-stock-with-transaction-fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)|2020-01-06|
 
 # 组长负责（每人一周，轮流制）
 1.选一道算法题，以“算法类型+算法序号+题目名”的格式提交到仓库
