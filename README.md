@@ -13,8 +13,7 @@
 |455|[assign-cookies](problems/455.assign-cookies.md)|2020-01-04|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)|2020-01-06|
 |860|[lemonade-change](problems/860.lemonade-change.md)|2020-01-07|
-|1282|[group-the-people-given-the-group-size-they-belong-to](problems/group-the-people-given-the-group-size-they-belong-to.md)|2020-01-08|
-
+|1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08|
 
 # 组长负责（每人一周，轮流制）
 1.选一道算法题，以“算法类型+算法序号+题目名”的格式提交到仓库
