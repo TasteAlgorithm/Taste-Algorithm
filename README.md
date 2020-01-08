@@ -15,6 +15,7 @@
 |860|[lemonade-change](problems/860.lemonade-change.md)|2020-01-07|
 |1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08|
 |1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09|
+
 # 组长负责（每人一周，轮流制）
 1.选一道算法题，以“算法类型+算法序号+题目名”的格式提交到仓库
 - 方式1.
