@@ -25,7 +25,7 @@
 |1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08|
 |1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09|
 |621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
-|621|[Task Scheduler](problems/100.SameTree.md)|2020-01-13|
+|100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
 
 # 刷题模块
 |模块|周期|时间|
