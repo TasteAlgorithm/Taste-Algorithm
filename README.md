@@ -35,6 +35,7 @@
 |1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09|
 |621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
 
 # 刷题模块
 |模块|周期|时间|
