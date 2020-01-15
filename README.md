@@ -36,6 +36,7 @@
 |621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
+|113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
 
 # 刷题模块
 |模块|周期|时间|
@@ -69,7 +70,8 @@
 # 刷题基金明细：
 |金额|日期|
 |--|--|
-|||
+|豪杰10元|2020-01-14|
+|耀鸿10元|2020-01-14|
 
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
