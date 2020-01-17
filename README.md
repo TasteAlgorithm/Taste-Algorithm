@@ -37,6 +37,7 @@
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
+|113|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16| 
 
 # 刷题模块
 |模块|周期|时间|
@@ -72,6 +73,8 @@
 |--|--|
 |豪杰10元|2020-01-14|
 |耀鸿10元|2020-01-14|
+|思凡10元|2020-01-16|
+|¥30|合计|
 
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
