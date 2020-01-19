@@ -39,13 +39,15 @@
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
 |113|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16| 
 |DJ|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
+|101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20| 
+|107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
 
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
 |贪心算法|9天|2020年01月02日-2020年01月10日|
-|DFS深度优先搜索算法|7天|2020年01月13日-2020年01月19日|
-|BFS广度优先搜索算法|||
+|DFS深度优先搜索算法|7天|2020年01月13日-2020年01月17日|
+|BFS广度优先搜索算法||2020年01月20日-2020年01月24日|
 |排序||
 |堆栈||
 |队列||
