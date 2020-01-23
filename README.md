@@ -42,7 +42,8 @@
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20| 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
-|133|[CloneGraph.md](problems/133.CloneGraph.md)|2020-01-22|  
+|133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
+|207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
@@ -82,6 +83,7 @@
 |耀鸿10元|2020-01-17|
 |思凡10元|2020-01-17|
 |思凡10元|2020-01-20|
+|豪杰10元|2020-01-22|
 |¥70|合计|
 
 **欢迎star❤️，一起用算法娱乐身心！**
@@ -99,6 +101,4 @@
 3.整理算法题的思路、关键点解析
 4.添加扩展思考点
 5.当天晚上10点30之前截止提交，代码不能正常通过和未提交的队员请主动按10元/道发红包到群里，由豪杰保管作为刷题基金。
-刷题基金明细：
-20元(思凡) 
 -->
