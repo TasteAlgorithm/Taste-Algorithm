@@ -44,6 +44,7 @@
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
 |133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
+|KS|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
