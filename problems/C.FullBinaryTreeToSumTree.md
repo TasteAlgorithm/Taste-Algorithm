@@ -13,14 +13,14 @@
                   10
                /      \
              -2        6
-           /   \      /  \ 
+           /   \      /  \
           8    -4    7    5
 
 求和树：
                  20(4-2+12+6)
                /      \
            4(8-4)      12(7+5)
-            /   \      /  \ 
+            /   \      /  \
           0      0    0    0
 
 二叉树给出前序和中序输入，求和树要求中序输出；
@@ -40,9 +40,10 @@
 ```
 
 ## 思路
-二叉树加一个sum属性。
+
+二叉树加一个 sum 属性。
 根据先序中序的序列，构建二叉树。
-利用后序遍历来更新节点sum值。
+利用后序遍历来更新节点 sum 值。
 最后通过中序遍历得到答案序列。
 
 ## 关键点解析
@@ -56,6 +57,7 @@
 Python Code:
 
 ```python
+
 ```
 
 Java Code:
@@ -67,17 +69,17 @@ class STNode {
     int sum;
     STNode left = null;
     STNode right = null;
- 
+
     public STNode(int val) {
         this.val = val;
     }
 }
- 
+
 public class Main {
     static int[] preOrder;
     static int[] inOrder;
     static List<Integer> ans;    //存和的中序遍历。
- 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String s1 = in.nextLine();
@@ -102,7 +104,7 @@ public class Main {
         }
         System.out.println();
     }
-     
+
     //根据先序和中序遍历构建二叉树。
     static STNode creatTree(int root, int beg, int end) {
         if (beg > end) return null;
@@ -118,7 +120,7 @@ public class Main {
         node.right = creatTree(root + cnt, loc + 1, end);
         return node;
     }
- 
+
     //更新sum值。
     static void sumNode(STNode node) {
         if (node.left == null && node.right == null) {
@@ -135,7 +137,7 @@ public class Main {
             node.sum = node.left.sum + node.left.val + node.right.sum + node.right.val;
         }
     }
- 
+
      //中序遍历。
     static void inOrderGo(STNode node) {
         if (node == null) return;
@@ -143,14 +145,46 @@ public class Main {
         ans.add(node.sum);
         inOrderGo(node.right);
     }
- 
+
 }
 ```
 
 Javascript Code:
 
 ```js
-
+var fir = readline()
+  .split(" ")
+  .map(Number);
+var mid = readline()
+  .split(" ")
+  .map(Number);
+function tree(p, m) {
+  if (p.length === 0 || !p) {
+    return null;
+  }
+  var root = {
+    val: p[0],
+    add: 0
+  };
+  var index = m.indexOf(p[0]);
+  root.l = tree(p.slice(1, index + 1), m.slice(0, index));
+  root.r = tree(p.slice(index + 1), m.slice(index + 1));
+  if (root.l != null) root.add = root.add + root.l.val + root.l.add;
+  if (root.r != null) root.add = root.add + root.r.val + root.r.add;
+  return root;
+}
+var arr = [];
+var t = tree(fir, mid);
+function sum(t) {
+  if (!t) {
+    return;
+  }
+  sum(t.l);
+  arr.push(t.add);
+  sum(t.r);
+}
+sum(t);
+print(arr.join(" "));
 ```
 
 ## 扩展
