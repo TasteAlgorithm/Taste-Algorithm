@@ -44,6 +44,8 @@
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
 |133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
+|KS|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
+
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
@@ -64,7 +66,7 @@
 - 方式1.
     23:59前将隔天的题目选好
 - 方式2.
-    05:30之前将当天题目选好
+    06:30之前将当天题目选好
 
 2.检查组员提交情况，保证提供的算法，能正常编译
 3.整理算法题的思路、关键点解析
@@ -84,7 +86,8 @@
 |思凡10元|2020-01-17|
 |思凡10元|2020-01-20|
 |豪杰10元|2020-01-22|
-|¥80|合计|
+|思凡10元|2020-01-23|
+|¥90|合计|
 
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
