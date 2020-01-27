@@ -45,6 +45,8 @@
 |133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
 |KS|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
+|349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
+|922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
 
 # 刷题模块
 |模块|周期|时间|
@@ -52,7 +54,7 @@
 |贪心算法|9天|2020年01月02日-2020年01月10日|
 |DFS深度优先搜索算法|7天|2020年01月13日-2020年01月17日|
 |BFS广度优先搜索算法||2020年01月20日-2020年01月24日|
-|排序||
+|排序|2020年01月27日-2020年01月31日|
 |堆栈||
 |队列||
 |递归||
