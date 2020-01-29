@@ -47,8 +47,8 @@
 |KS|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
-|75|[Sort Colors](problems/75.SortColors.md)|2020-01-27|
-|1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-27|
+|75|[Sort Colors](problems/75.SortColors.md)|2020-01-28|
+|1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
 
 # 刷题模块
 |模块|周期|时间|
