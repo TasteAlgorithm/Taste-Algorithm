@@ -37,7 +37,7 @@
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
-|113|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16| 
+|113|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16|
 |DJ|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
@@ -47,7 +47,8 @@
 |KS|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
-|75|[SortColors](problems/75.SortColors.md)|2020-01-27|
+|75|[Sort Colors](problems/75.SortColors.md)|2020-01-27|
+|1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-27|
 
 # 刷题模块
 |模块|周期|时间|
