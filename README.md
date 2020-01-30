@@ -49,6 +49,7 @@
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
 |75|[Sort Colors](problems/75.SortColors.md)|2020-01-28|
 |1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
+|56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30|
 
 # 刷题模块
 |模块|周期|时间|
