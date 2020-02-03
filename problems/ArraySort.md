@@ -57,7 +57,36 @@ Python Code:
 Java Code:
 
 ```java
-
+public class Soluction {
+    public static void main(String[] args) {
+        String str = "hello world";
+        // 变成字符数组
+        char[] chs = str.toCharArray();
+        int[] cs = new int[chs.length];
+        int n = 0;
+        // 转成ascii码数组
+        for (char ch : chs) {
+            int c = ch;
+            cs[n] = c;
+            n++;
+        }
+       // 冒泡排序
+        int i,j;
+        for (i = 0;i < cs.length - 1;i++) {
+            for (j = 0;j < cs.length - 1- i;j++) {
+                if (cs[j] < cs[j + 1]) {
+                    int temp = cs[j];
+                    cs[j] = cs[j + 1];
+                    cs[j + 1] = temp;
+                }
+            }
+        }
+        // 输出
+        for(int m : cs){
+            System.out.printf(m+" ");
+        }
+    }
+}
 ```
 
 Javascript Code:
