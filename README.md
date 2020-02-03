@@ -51,6 +51,8 @@
 |1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
 |56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30|
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31|
+|1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03|
+|703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03|
 
 # 刷题模块
 |模块|周期|时间|
@@ -59,7 +61,7 @@
 |DFS深度优先搜索算法|7天|2020年01月13日-2020年01月17日|
 |BFS广度优先搜索算法|5天|2020年01月20日-2020年01月24日|
 |排序|5天|2020年01月27日-2020年01月31日|
-|堆栈||
+|堆栈|5天|2020年02月03日-2020年02月7日|
 |队列||
 |递归||
 |查找(树)|||
