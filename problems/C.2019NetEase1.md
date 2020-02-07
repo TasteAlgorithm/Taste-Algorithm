@@ -25,10 +25,9 @@ E
 
 ## 思路
 
-
 ## 关键点解析
 
-- 
+-
 
 ## 代码
 
@@ -48,9 +47,37 @@ Java Code:
 ```
 
 Javascript Code:
-
+**解法一**
 ```js
-
+let dir=["N","E","S","W"];
+let n=readline();
+let turn=readline();
+let k=0;
+for(let i=0;i<turn.length;i++){
+    if(turn[i]=="L"){
+        k+=3;
+    }else{
+        k++;
+    }
+}
+k=k%4;
+console.log(dir[k]);
 ```
+**解法二**
+```js
+readline();
+let arr = ["N", "E", "S", "W"];
+let now = 0;
+let direct = readline().split('')
+for (let i = 0; i < direct.length; i++) {
+  if (direct[i] === "R") {
+    now = now + 1 > 3 ? now - 3 : now + 1;
+  } else {
+    now = now - 1 < 0 ? now + 3 : now - 1;
+  }
+}
+console.log(arr[now])
+```
+readline():逐行读取、写入文件内容（Read a single line from stdin）
 
 ## 扩展
