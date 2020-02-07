@@ -43,8 +43,29 @@ Python Code:
 Java Code:
 
 ```java
-
-
+// 先创建一个数组表示四个方向，然后向左的话下标减一，向右的话下标加一
+// 如果下标小于0了加上4即可
+public class Main{
+    public static void main(String[] args){
+        Scanner in = new Scanner(System.in);
+        String[] dire = new String[]{"N", "E", "S", "W"};
+        int n = in.nextInt();
+        String s = in.next();
+        int ret = 0;
+        for(int i = 0; i < n; i ++){
+            if(s.charAt(i) == 'R'){
+                ret ++;
+            }else{
+                ret --;
+            }
+        }
+        ret %= 4;
+        if(ret < 0){
+            ret += 4;
+        }
+        System.out.println(dire[ret]);
+    }
+}
 ```
 
 Javascript Code:
