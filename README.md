@@ -56,6 +56,7 @@
 |215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04|
 |264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05|
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
+|网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07|
 
 # 刷题模块
 |模块|周期|时间|
@@ -105,7 +106,9 @@
 |思凡10元|2020-01-29|
 |耀鸿10元|2020-01-31|
 |思凡10元|2020-02-05|
-|¥150|合计|
+|豪杰10元|2020-02-06|
+|思凡10元|2020-02-06|
+|¥170|合计|
 
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
