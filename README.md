@@ -58,6 +58,7 @@
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07|
 |933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10|
+|641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11|
 
 # 刷题模块
 |模块|周期|时间|
