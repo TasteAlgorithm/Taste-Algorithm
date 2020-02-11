@@ -109,6 +109,10 @@
 |思凡10元|2020-02-06|
 |¥170|合计|
 
+# 更多高质量的算法仓库/平台收录
+- [LeetCode](https://leetcode.com/problemset/all/)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
 群公告
