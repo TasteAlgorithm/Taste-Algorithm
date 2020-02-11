@@ -36,7 +36,21 @@ E
 Python Code:
 
 ```python
-
+if __name__ == "__main__":
+    orientation = ['W','N','E','S']  #定义四个方向
+    num = input()
+    direction = input()
+    ans = 1
+    for i in range(len(direction)):
+        if direction[i]=='L':
+            ans = ans-1
+            if(ans==-1):             #方向边界及时调整
+                ans+=4
+        else:
+            ans = ans+1
+            if(ans==4):              #方向边界调整
+                ans-=4
+    print(orientation[ans])
 ```
 
 Java Code:
