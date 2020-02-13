@@ -61,6 +61,9 @@
 |641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11|
 |622|[Design Circular Queue](problems/622.DesignCircularQueue.md)|2020-02-12|
 |363|[Max Sum of Rectangle No Larger Than K](problems/363.MaxSumofRectangleNoLargerThanK.md)|2020-02-13|
+|字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14|
+
+
 
 # 刷题模块
 |模块|周期|时间|
