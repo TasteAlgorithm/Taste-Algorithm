@@ -37,7 +37,7 @@
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
-|113|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16|
+|301|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16|
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
@@ -53,22 +53,33 @@
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31|
 |1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03|
 |703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03|
+|215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04|
+|264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05|
+|23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
+|网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07|
+|933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10|
+|641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11|
+|622|[Design Circular Queue](problems/622.DesignCircularQueue.md)|2020-02-12|
+|363|[Max Sum of Rectangle No Larger Than K](problems/363.MaxSumofRectangleNoLargerThanK.md)|2020-02-13|
+|字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14|
+
+
 
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
 |贪心算法|9天|2020年01月02日-2020年01月10日|
-|DFS深度优先搜索算法|7天|2020年01月13日-2020年01月17日|
+|DFS深度优先搜索算法(树的前中后序遍历)|7天|2020年01月13日-2020年01月17日|
 |BFS广度优先搜索算法|5天|2020年01月20日-2020年01月24日|
-|排序|5天|2020年01月27日-2020年01月31日|
+|排序(快排、归并)|5天|2020年01月27日-2020年01月31日|
 |堆栈|5天|2020年02月03日-2020年02月7日|
-|队列||
-|递归||
-|查找(树)|||
+|队列|2020年02月10日-2020年02月14日|
+|递归(单链表翻转)||
+|查找(树、二分查找及变形)|||
 |diff算法|||
 |波兰式||
 |逆波兰式||
-|动态规划||
+|动态规划（爬楼梯以及变形问题、斐波那契数列、股票问题）||
 
 # 组长负责（每人一周，轮流制）
 1.选一道算法题，以“算法类型+算法序号+题目名”的格式提交到仓库
@@ -80,9 +91,6 @@
 2.检查组员提交情况，保证提供的算法，能正常编译
 3.整理算法题的思路、关键点解析
 4.添加扩展思考点
-
-# 共同思考以下问题
-- 如何直接让链接LeetCode让算法跑起来、看解法速度
 
 # 刷题基金明细：
 |金额|日期|
@@ -101,7 +109,16 @@
 |豪杰10元|2020-01-29|
 |思凡10元|2020-01-29|
 |耀鸿10元|2020-01-31|
-|¥140|合计|
+|思凡10元|2020-02-05|
+|豪杰10元|2020-02-06|
+|思凡10元|2020-02-06|
+|思凡10元|2020-02-14|
+|耀鸿10元|2020-02-14|
+|¥190|合计|
+
+# 更多高质量的算法仓库/平台收录
+- [LeetCode](https://leetcode.com/problemset/all/)
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 
 **欢迎star❤️，一起用算法娱乐身心！**
 <!-- 
