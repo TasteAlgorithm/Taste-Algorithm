@@ -74,8 +74,8 @@ public class MiniCostOfGraduationTravel {
         boolean[]  vis = new boolean[n]; // 记录各个城市之间的访问记录
         vis[0] = true;
         AtomicInteger ans = new AtomicInteger(Integer.MAX_VALUE);
-        dfs(arr, vis, n, 0, 1, 0, ans);
-        System.out.println(ans.get());
+            dfs(arr, vis, n, 0, 1, 0, ans);
+            System.out.println(ans.get());
     }
 
     //vn为已经访问的城市数量,local为当前城市编号,price为当前累计票价

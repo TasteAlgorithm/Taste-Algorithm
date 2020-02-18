@@ -64,6 +64,7 @@
 |字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14|
 |783|[Minimum Distance Between BST Nodes](problems/783.MinimumDistanceBetweenBSTNodes.md)|2020-02-17|
 |08.06|[Hanota LCCI](problems/08.06.HanotaLCCI.md)|2020-02-17|
+|894|[All Possible Full Binary Trees](problems/894.AllPossibleFullBinaryTrees.md)|2020-02-18|
 
 
 
@@ -116,7 +117,9 @@
 |思凡10元|2020-02-06|
 |思凡10元|2020-02-14|
 |耀鸿10元|2020-02-14|
-|¥190|合计|
+|耀鸿10元|2020-02-17|
+|豪杰10元|2020-02-17|
+|¥210|合计|
 
 # 更多高质量的算法仓库/平台收录
 - [LeetCode](https://leetcode.com/problemset/all/)
