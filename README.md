@@ -67,6 +67,7 @@
 |894|[All Possible Full Binary Trees](problems/894.AllPossibleFullBinaryTrees.md)|2020-02-18|
 |08.05|[Recursive Mulitply LCCI](problems/08.05.RecursiveMulitplyLCCI.md)|2020-02-19|
 |761|[SpecialBinaryString](problems/761.SpecialBinaryString.md)|2020-02-20|
+|招行|[The best time to buy and sell bitcoin](problems/C.TheBestTimeToBuyAndSellBitcoin.md)|2020-02-21|
 
 
 
@@ -121,7 +122,10 @@
 |耀鸿10元|2020-02-14|
 |耀鸿10元|2020-02-17|
 |豪杰10元|2020-02-17|
-|¥210|合计|
+|耀鸿10元|2020-02-20|
+|豪杰10元|2020-02-20|
+|思凡10元|2020-02-20|
+|¥240|合计|
 
 # 更多高质量的算法仓库/平台收录
 - [LeetCode](https://leetcode.com/problemset/all/)
