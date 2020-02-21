@@ -26,7 +26,7 @@
 ```
 
 ## 思路
-
+循环数组，找到最小的值的时候买入，找到最大利润的时候卖出
 ## 关键点解析
 
 -
@@ -43,6 +43,24 @@ Python Code:
 Java Code:
 
 ```java
+public class TheBestTimeToBuyAndSellBitcoin {
+
+    public static void main(String[] args) {
+        int[] prices = {7,1,5,3,6,4};
+        System.out.println(maxBit(prices));
+    }
+
+    public static int maxBit(int[] prices){
+        int min = Integer.MAX_VALUE; // 买入
+        int max = 0; // 卖出
+        for (int i = 0; i < prices.length; i ++) {
+            min = Math.min(min,prices[i]); //找到最小值买入
+            max = Math.max(max,prices[i] - min); //找到最大利润的时候卖出
+        }
+        return max;
+    }
+
+}
 ```
 
 Javascript Code:
