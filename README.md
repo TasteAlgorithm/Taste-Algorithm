@@ -68,8 +68,8 @@
 |08.05|[Recursive Mulitply LCCI](problems/08.05.RecursiveMulitplyLCCI.md)|2020-02-19|
 |761|[SpecialBinaryString](problems/761.SpecialBinaryString.md)|2020-02-20|
 |招行|[The best time to buy and sell bitcoin](problems/C.TheBestTimeToBuyAndSellBitcoin.md)|2020-02-21|
-
-
+|53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24|
+|1337|[The K Weakest Rows in a Matrix](problems/1337.TheKWeakestRowsinaMatrix.md)|2020-02-24|
 
 # 刷题模块
 |模块|周期|时间|
@@ -81,7 +81,7 @@
 |堆栈|5天|2020年02月03日-2020年02月7日|
 |队列|5天|2020年02月10日-2020年02月14日|
 |递归(单链表翻转)|5天|2020年02月17日-2020年02月21日|
-|查找(树、二分查找及变形)|||
+|查找(树、二分查找及变形)|5天|2020年02月24日-2020年02月28日|
 |diff算法|||
 |波兰式||
 |逆波兰式||
