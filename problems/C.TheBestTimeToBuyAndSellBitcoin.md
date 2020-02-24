@@ -38,6 +38,14 @@
 Python Code:
 
 ```python
+import sys
+s=sys.stdin.readline().split()
+minnum=int(s[0])
+profit=0
+for i in s:
+    minnum=min(int(i),minnum)
+    profit=max(profit,int(i)-minnum)
+print(profit)
 ```
 
 Java Code:
