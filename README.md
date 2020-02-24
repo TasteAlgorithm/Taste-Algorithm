@@ -70,6 +70,7 @@
 |招行|[The best time to buy and sell bitcoin](problems/C.TheBestTimeToBuyAndSellBitcoin.md)|2020-02-21|
 |53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24|
 |1337|[The K Weakest Rows in a Matrix](problems/1337.TheKWeakestRowsinaMatrix.md)|2020-02-24|
+|1300|[Sum of Mutated Array Closest to Target](problems/1300.SumofMutatedArrayClosesttoTarget.md)|2020-02-25|
 
 # 刷题模块
 |模块|周期|时间|
