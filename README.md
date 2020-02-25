@@ -71,6 +71,9 @@
 |53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24|
 |1337|[The K Weakest Rows in a Matrix](problems/1337.TheKWeakestRowsinaMatrix.md)|2020-02-24|
 |1300|[Sum of Mutated Array Closest to Target](problems/1300.SumofMutatedArrayClosesttoTarget.md)|2020-02-25|
+|153|[Find Minimum in Rotated Sorted Array](problems/153.FindMinimuminRotatedSortedArray.md)|2020-02-26|
+
+
 
 # 刷题模块
 |模块|周期|时间|
