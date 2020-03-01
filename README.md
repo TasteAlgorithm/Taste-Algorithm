@@ -74,7 +74,7 @@
 |153|[Find Minimum in Rotated Sorted Array](problems/153.FindMinimuminRotatedSortedArray.md)|2020-02-26|
 |154|[Find Minimum in Rotated Sorted Array II](problems/154.FindMinimumInRotatedSortedArrayII.md)|2020-02-27|
 |17.12|[BiNode LCCI](problems/BiNodeLCCI.md)|2020-03-02|
-
+|150|[Evaluate Reverse Polish Notation](problems/evaluate-reverse-polish-notation.md)|2020-03-01|
 # 刷题模块
 |模块|周期|时间|
 |--|--|--|
