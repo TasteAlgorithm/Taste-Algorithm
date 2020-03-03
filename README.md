@@ -75,8 +75,8 @@
 |154|[Find Minimum in Rotated Sorted Array II](problems/154.FindMinimumInRotatedSortedArrayII.md)|2020-02-27|
 |150|[Evaluate Reverse Polish Notation](problems/150.EvaluateReversePolishNotation.md)|2020-03-02|
 |309|[Best Time to Buy and Sell Stock with Cooldown](problems/309.BestTimetoBuyandSellStockwithCooldown.md)|2020-03-03|
-|70|[Climbing Stairs](problems/309.ClimbingStairs.md)|2020-03-04|
-|198|[House Robber](problems/309.HouseRobber.md)|2020-03-04|
+|70|[Climbing Stairs](problems/70.ClimbingStairs.md)|2020-03-04|
+|198|[House Robber](problems/198.HouseRobber.md)|2020-03-04|
 
 
 # 刷题模块
