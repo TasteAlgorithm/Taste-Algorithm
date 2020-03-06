@@ -5,17 +5,17 @@
 ## 题目描述
 
 ```
-小明同学在参加一场考试，考试时间2个小时。试卷上一共有n道题目，小明要在规定时间内，完成一定数量的题目。  考试中不限制试题作答顺序，对于 i 第道题目，小明有三种不同的策略可以选择:  (1)直接跳过这道题目，不花费时间，本题得0分。
-
-(2)只做一部分题目，花费pi分钟的时间，本题可以得到ai分。  (3)做完整个题目，花费qi分钟的时间，本题可以得到bi分。 
-
+小明同学在参加一场考试，考试时间2个小时。试卷上一共有n道题目，小明要在规定时间内，完成一定数量的题目。  
+考试中不限制试题作答顺序，对于第 i 道题目，小明有三种不同的策略可以选择:  
+(1)直接跳过这道题目，不花费时间，本题得0分。
+(2)只做一部分题目，花费pi分钟的时间，本题可以得到ai分。
+(3)做完整个题目，花费qi分钟的时间，本题可以得到bi分。 
 小明想知道，他最多能得到多少分。
 
 输入描述:
 第一行输入一个n数表示题目的数量。
 
-接下来n行，每行四个数p_i，a_i，q_i，b_i。(1≤n≤100，1≤p_i≤q_i≤120，0≤a_i≤b_i≤1000
-)。
+接下来n行，每行四个数p_i，a_i，q_i，b_i。(1≤n≤100，1≤p_i≤q_i≤120，0≤a_i≤b_i≤1000)。
 输出描述:
 输出一个数，小明的最高得分。
 
@@ -33,8 +33,7 @@
 ## 思路
 
 ## 关键点解析
-
--
+- 背包问题
 
 ## 代码
 
@@ -53,9 +52,31 @@ Java Code:
 ```
 
 Javascript Code:
-
+**待理解**
 ```js
-
+let N = parseInt(readline()); // readline()为牛客网针对传统ACM题的输入
+let value = new Array(N).fill(0).map(()=> new Array(2).fill(0))
+let weight = new Array(N).fill(0).map(()=> new Array(2).fill(0))
+for(let i = 0 ; i < N ; i++){
+    let line = readline().split(' ').map(e => +e);
+    weight[i][0] = line[0]
+    weight[i][1] = line[2]
+    value[i][0] = line[1]
+    value[i][1] = line[3]
+}
+let dp = new Array(121).fill(0);
+for(let i = 0; i < N; i++) {
+    for(let j = 120; j >= weight[i][0] || j >= weight[i][1]; j--) {
+        if(j >= weight[i][0] && j >= weight[i][1]) {
+            dp[j] = Math.max(Math.max(dp[j-weight[i][0]] + value[i][0], dp[j-weight[i][1]] + value[i][1]), dp[j]);
+        }else if(j >= weight[i][0]) {
+            dp[j] = Math.max(dp[j-weight[i][0]] + value[i][0], dp[j]);
+        }else {
+            dp[j] = Math.max(dp[j-weight[i][1]] + value[i][1], dp[j]);
+        }
+    }
+}
+console.log(dp[120]);
 ```
 
 ## 扩展
