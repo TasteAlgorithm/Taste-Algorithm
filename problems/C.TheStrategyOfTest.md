@@ -48,7 +48,28 @@ Python Code:
 Java Code:
 
 ```java
-
+public class TheStrategyOfTest {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int n= Integer.parseInt(scanner.nextLine());
+        // 存放数据，除n外，其他的数据可以用一个二维数组来存放
+        int[][] record = new int[n][4];
+        //接下来n行，每行四个数p_i，a_i，q_i，b_i
+        for (int i = 0; i < n; i++) {
+            String[] s = scanner.nextLine().split(" ");
+            for (int j = 0; j < 4; j++) {
+                record[i][j]=Integer.parseInt(s[j]);
+            }
+        }
+        int[] dp=new int[121];
+        for(int i = 0; i < n; i++)
+            for(int j = 120; j >= 0; j--) {
+                if(record[i][0] <= j) dp[j] = Math.max(dp[j], dp[j-record[i][0]] + record[i][1]);
+                if(record[i][2] <= j) dp[j] = Math.max(dp[j], dp[j-record[i][2]] + record[i][3]);
+            }
+        System.out.println(dp[120]);
+    }
+}
 ```
 
 Javascript Code:
