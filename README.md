@@ -14,7 +14,7 @@
 - 代码提交github仓库，必须保证以下几点
     - 代码完整、能正常运行
     - 注释自己的解题思路
-    - 附带提交运行时间作为参考
+- 附带提交运行时间及时间复杂度（可选）
 
 ## 一期题型 2020/01/02-2020/03/06
 |工作日|题型|
@@ -43,8 +43,8 @@
 # 题目汇总
 |序号|题目&解析|日期|
 |--|--|--|
-|122|[best-time-to-buy-and-sell-stock-ii](problems/122.best-time-to-buy-and-sell-stock-ii.md)|2020-01-02|
-|1029|[two-city-scheduling](problems/1029.two-city-scheduling.md)|2020-01-03|
+|122|[best-time-to-buy-and-sell-stock-ii](problems/122.best-time-to-buy-and-sell-stock-ii.md)|2020-01-02 && 2020-03-09|
+|1029|[two-city-scheduling](problems/1029.two-city-scheduling.md)|2020-01-03 && 2020-03-09|
 |455|[assign-cookies](problems/455.assign-cookies.md)|2020-01-04|
 |714|[best-time-to-buy-and-sell-stock-with-transaction-fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)|2020-01-06|
 |860|[lemonade-change](problems/860.lemonade-change.md)|2020-01-07|
