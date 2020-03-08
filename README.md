@@ -1,6 +1,6 @@
 # 招募2名Coder😁
 刷题小组控制在5人以内，大家互相敦促！一起用算法娱乐身心！❤️
-有意者请私信[我的邮箱📮](vanjohnson@foxmail.com)简单介绍一下你自己
+有意者请私信📮vanjohnson@foxmail.com简单介绍一下你自己!
 要求：
 - 使用js、python、java以外的语言做题
 - 有毅力
