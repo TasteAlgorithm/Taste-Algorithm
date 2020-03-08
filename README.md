@@ -155,6 +155,7 @@
 
 # 更多高质量的算法仓库/平台收录
 - [LeetCode](https://leetcode.com/problemset/all/)
+- [highscalability](http://highscalability.com/)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
 - [算法动图解释](https://visualgo.net/zh/sorting?slide=1)
