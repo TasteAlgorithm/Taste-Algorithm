@@ -97,6 +97,7 @@
 |188|[Best Time to Buy and Sell Stock IV](problems/188.BestTimetoBuyandSellStockIV.md)|2020-03-05|
 |美团|[The Strategy Of Test](problems/C.TheStrategyOfTest.md)|2020-03-06|
 |134|[Gas Station](problems/134.GasStation.md)|2020-03-10|
+|字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12|
 
 # 一轮刷题模块
 |模块|周期|时间|
