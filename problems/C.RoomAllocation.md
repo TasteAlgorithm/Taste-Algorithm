@@ -51,7 +51,11 @@ Java Code:
 
 Javascript Code:
 ```js
-
+function(n,x){
+    for(){
+        
+    }
+}
 ```
 
 ## 扩展
