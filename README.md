@@ -51,8 +51,8 @@
 |1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08 && 2020-03-13|
 |1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09|
 |621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
-|100|[Same Tree](problems/100.SameTree.md)|2020-01-13|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14|
+|100|[Same Tree](problems/100.SameTree.md)|2020-01-13 && 2020-03-16|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14 && 2020-03-16|
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
 |301|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16|
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
@@ -117,7 +117,7 @@
 |模块|周期|时间|
 |--|--|--|
 |贪心算法|5天|2020年03月09日-2020年03月13日|
-|DFS深度优先搜索算法(树的前中后序遍历)|5天||
+|DFS深度优先搜索算法(树的前中后序遍历)|5天|2020年03月16日-2020年03月20日|
 |BFS广度优先搜索算法|5天||
 |排序(快排、归并)|5天||
 |堆栈|5天||
