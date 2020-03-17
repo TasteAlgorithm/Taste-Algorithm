@@ -53,8 +53,8 @@
 |621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
 |100|[Same Tree](problems/100.SameTree.md)|2020-01-13 && 2020-03-16|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14 && 2020-03-16|
-|113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15|
-|301|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16|
+|113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15 && 2020-03-17|
+|301|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16 && 2020-03-17|
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
