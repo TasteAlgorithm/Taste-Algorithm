@@ -29,7 +29,7 @@
 
 ## 关键点解析
 
-- 
+-
 
 ## 代码
 
@@ -50,7 +50,19 @@ Javascript Code:
 **知识点：**
 
 ```js
-
+let line = readline().split(" "); // 输入内容用空格分隔开
+let arr = line.sort((a, b) => {
+  return a - b;
+}); // 进行正序排列
+let result;
+for (let i = 0; i < arr.length; i++) {
+  if (arr[0] == "1") {
+    result = (parseInt(arr[0]) + parseInt(arr[1])) * parseInt(arr[2]);
+  } else {
+    result = parseInt(arr[0]) * parseInt(arr[1]) * parseInt(arr[2]);
+  }
+}
+print(result);
 ```
 
 ## 扩展
