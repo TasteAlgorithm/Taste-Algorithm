@@ -37,6 +37,15 @@
   Python Code:
 
 ```python
+import sys
+arr = list(map(int,sys.stdin.readline().split()))
+arr.sort()
+#第一个数若为1，则前两数先相加
+if arr[0] == 1:
+    print((arr[0]+arr[1])*arr[2])
+#否则，三个数直接相乘
+else:
+    print(arr[0]*arr[1]*arr[2])
 
 ```
 
