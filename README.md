@@ -55,7 +55,7 @@
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md)|2020-01-14 && 2020-03-16|
 |113|[Path Sum II](problems/113.PathSumII.md)|2020-01-15 && 2020-03-18|
 |301|[Remove Invalid Parentheses](problems/301.RemoveInvalidParentheses.md)|2020-01-16 && 2020-03-18|
-|大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17| 
+|大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17 && 2020-03-20| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20| 
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
@@ -180,7 +180,8 @@
 |豪杰10元|2020-03-12|
 |思凡10元|2020-03-12|
 |耀鸿10元|2020-03-12|
-|¥350|合计|
+|豪杰10元|2020-03-19|
+|¥360|合计|
 
 # 更多高质量的算法仓库/平台收录
 - [LeetCode](https://leetcode.com/problemset/all/)
