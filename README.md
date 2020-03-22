@@ -189,6 +189,8 @@
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [Google Code Jam](https://code.google.com/codejam/)
 - [Google Coding competitions](https://codingcompetitions.withgoogle.com/codejam)
+- [kaggle比赛](https://www.kaggle.com/competitions)
+  - 每年数百万美金的奖励
 - [ACM](https://www.acm.org/)
 - [UVa Online Judge-世界各大赛事题](http://uva.onlinejudge.org/)
 - [Sphere Online Judge](http://www.spoj.com/)
