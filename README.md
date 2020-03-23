@@ -58,8 +58,8 @@
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17 && 2020-03-20| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 && 2020-03-23| 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20 && 2020-03-23| 
-|429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21 && 2020-03-24|
-|133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22 && 2020-03-24|
+|429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
+|133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
 |快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
@@ -100,6 +100,7 @@
 |字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12|
 |109|[Convert Sorted List to Binary Search Tree](problems/109.ConvertSortedListToBinarySearchTree.md)|2020-03-17|
 |网易|[Expression evaluation](problems/C.ExpressionEvaluation.md)|2020-03-18|
+|快手|[Get the Most Bonus](problems/C.GetTheMostBonus.md)|2020-03-24|
 
 # 一轮刷题模块
 |模块|周期|时间|
