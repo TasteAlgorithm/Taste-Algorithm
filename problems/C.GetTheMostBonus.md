@@ -59,7 +59,27 @@
 Python Code:
 
 ```python
-
+def redPacket(n, nums):
+    left, right = -1, n
+    sum_left, sum_right = 0, 0
+    res = 0
+    while left < right:
+        if sum_left == sum_right:
+            res = sum_left
+            left, right = left + 1, right - 1
+            sum_left += nums[left]
+            sum_right += nums[right]
+        elif sum_left < sum_right:
+            left += 1
+            sum_left += nums[left]
+        else:
+            right -= 1
+            sum_right += nums[right]
+    return res
+if __name__ == '__main__':
+    n = int(input())
+    nums = list(map(int, input().split()))
+    print(redPacket(n, nums))
 ```
 
 Java Code:
