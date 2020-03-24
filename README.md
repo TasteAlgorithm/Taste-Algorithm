@@ -58,8 +58,8 @@
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17 && 2020-03-20| 
 |101|[SymmetricTree](problems/101.SymmetricTree.md)|2020-01-20 && 2020-03-23| 
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20 && 2020-03-23| 
-|429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21|
-|133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22|
+|429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21 && 2020-03-25|
+|133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22 && 2020-03-25|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
 |快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|

@@ -59,9 +59,10 @@
 Python Code:
 
 ```python
-def redPacket(n, nums):
-    left, right = -1, n
-    sum_left, sum_right = 0, 0
+#使用双指针移动来求解
+def mostBonus(n, nums):
+    left, right = 0, n-1
+    sum_left, sum_right = nums[0],nums[n-1]
     res = 0
     while left < right:
         if sum_left == sum_right:
@@ -79,7 +80,7 @@ def redPacket(n, nums):
 if __name__ == '__main__':
     n = int(input())
     nums = list(map(int, input().split()))
-    print(redPacket(n, nums))
+    print(mostBonus(n, nums))
 ```
 
 Java Code:
