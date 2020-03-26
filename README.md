@@ -61,8 +61,8 @@
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21 && 2020-03-25|
 |133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22 && 2020-03-25|
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23 && 2020-03-26| 
-|快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
-|349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
+|快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24 && 2020-03-27|
+|349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27 && 2020-03-27|
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
 |75|[Sort Colors](problems/75.SortColors.md)|2020-01-28|
 |1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
