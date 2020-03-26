@@ -60,7 +60,7 @@
 |107|[Binary Tree Level Order Traversal II](problems/107.BinaryTreeLevelOrderTraversalII.md)|2020-01-20 && 2020-03-23| 
 |429|[N-ary Tree Level Order Traversal](problems/429.N-aryTreeLevelOrderTraversal.md)|2020-01-21 && 2020-03-25|
 |133|[CloneGraph](problems/133.CloneGraph.md)|2020-01-22 && 2020-03-25|
-|207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23| 
+|207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23 && 2020-03-26| 
 |快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27|
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
@@ -121,7 +121,7 @@
 |--|--|--|
 |贪心算法|5天|2020年03月09日-2020年03月13日|
 |DFS深度优先搜索算法(树的前中后序遍历)|5天|2020年03月16日-2020年03月20日|
-|BFS广度优先搜索算法|5天||
+|BFS广度优先搜索算法|5天|2020年3月23日-2020年3月27日|
 |排序(快排、归并)|5天||
 |堆栈|5天||
 |队列|5天||
