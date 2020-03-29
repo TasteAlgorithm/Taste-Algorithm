@@ -16,15 +16,6 @@
     - 注释自己的解题思路
 - 附带提交运行时间及时间复杂度（可选）
 
-## 一期题型 2020/01/02-2020/03/06
-|工作日|题型|
-|--|--|
-|周一|2道简单|
-|周二|1道中等|
-|周三|1道中等|
-|周四|1道困难|
-|周五|1道创新题|
-
 ## 二期题型 2020/03/09开始
 |工作日|题型|
 |--|--|
@@ -33,6 +24,15 @@
 |周三|2道(一期原题)|
 |周四|1道创新题(New)|
 |周五|2道(一期原题)|
+
+## 一期题型 2020/01/02-2020/03/06
+|工作日|题型|
+|--|--|
+|周一|2道简单|
+|周二|1道中等|
+|周三|1道中等|
+|周四|1道困难|
+|周五|1道创新题|
 
 ## 2.奖惩机制
 - 每晚10点30之前未提交代码，或代码执行不能运行通过的组员需要发10元红包到群里（组长每日检查）
@@ -63,8 +63,8 @@
 |207|[Course Schedule](problems/207.CourseSchedule.md)|2020-01-23 && 2020-03-26| 
 |快手|[FullBinaryTreeToSumTree](problems/C.FullBinaryTreeToSumTree.md)|2020-01-24 && 2020-03-27|
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27 && 2020-03-27|
-|922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27|
-|75|[Sort Colors](problems/75.SortColors.md)|2020-01-28|
+|922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27 && 2020-03-30|
+|75|[Sort Colors](problems/75.SortColors.md)|2020-01-28 && 2020-03-30|
 |1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
 |56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30|
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31|
@@ -122,7 +122,7 @@
 |贪心算法|5天|2020年03月09日-2020年03月13日|
 |DFS深度优先搜索算法(树的前中后序遍历)|5天|2020年03月16日-2020年03月20日|
 |BFS广度优先搜索算法|5天|2020年3月23日-2020年3月27日|
-|排序(快排、归并)|5天||
+|排序(快排、归并)|5天|2020年3月30日-2020年4月03日|
 |堆栈|5天||
 |队列|5天||
 |递归(单链表翻转)|5天||
