@@ -65,8 +65,8 @@
 |349|[IntersectionofTwoArrays](problems/349.IntersectionofTwoArrays.md)|2020-01-27 && 2020-03-27|
 |922|[SortArrayByParityII](problems/922.SortArrayByParityII.md)|2020-01-27 && 2020-03-30|
 |75|[Sort Colors](problems/75.SortColors.md)|2020-01-28 && 2020-03-30|
-|1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29|
-|56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30|
+|1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29 && 2020-04-01|
+|56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30 && 2020-04-01|
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31|
 |1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03|
 |703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03|
