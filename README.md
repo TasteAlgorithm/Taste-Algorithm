@@ -102,6 +102,7 @@
 |网易|[Expression evaluation](problems/C.ExpressionEvaluation.md)|2020-03-18|
 |快手|[Get the Most Bonus](problems/C.GetTheMostBonus.md)|2020-03-24|
 |147|[Insertion Sort List](problems/147.InsertionSortList.md)|2020-03-31|
+|字节跳动|[ChangeCoins](problems/C.ChangeCoins.md)|2020-04-02|
 
 
 # 一轮刷题模块
@@ -206,3 +207,4 @@
 - [字节跳动-牛客网笔试真题](https://www.nowcoder.com/contestRoom?categories=-1&orderByHotValue=0&filter=0&mutiTagIds=665)
 
 **欢迎star❤️，或通过issue提供更好解法或建议！**
+<!-- 字节跳动2018校招前端方向（第三批） -->
