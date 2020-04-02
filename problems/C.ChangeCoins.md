@@ -1,6 +1,7 @@
 ## 题目地址
 
 - [地址](https://www.nowcoder.com/question/next?pid=16516564&qid=362294&tid=32189245)
+
 ## 题目描述
 
 ```
@@ -28,7 +29,9 @@ Z国的货币系统包含面值1元、4元、16元、64元共计4种硬币，以
 ## 思路
 
 ## 关键点解析
+
 - 排序
+- 贪心
 - 递归
 - 动态规划
 
@@ -49,8 +52,31 @@ Java Code:
 ```
 
 Javascript Code:
-```js
+**动态规划**
 
+
+**贪心算法**
+```js
+function minCoinChange(amount) {
+  const change = [];
+  let coins = [1, 4, 16, 64],
+    total = 0;
+  for(let i = coins.length;i>=0;i--){
+      // 将零钱从大到校开始遍历
+      const coin = coins[i];
+      while(total+coin<amount){
+          // 找出去的零钱+遍历到的零钱<找钱总数时
+          change.push(coin);
+          total += coin; // 统计以找出零钱总和
+      }
+  }
+  return change; // 返回找钱结果
+}
+console.log(minCoinChange(1024)); // 测试
 ```
 
 ## 扩展
+
+使用贪心算法在有些情况无法得到最优解，本题是要求输出最少硬币数，所以这里不能用贪心！
+- 如用[1, 3, 4]面额执行贪心算法找6元钱，会得到结果[4, 1, 1]
+- 如用动态规划的解法，会得到最优的结果[3, 3]
