@@ -42,7 +42,19 @@ Z国的货币系统包含面值1元、4元、16元、64元共计4种硬币，以
 Python Code:
 
 ```python
-
+    
+    #贪心，面值从大往小遍历
+    N=1024-int(input())
+    coins=[64,16,4,1]
+    coin=0
+    i=0
+    while N>0:
+        tmp=N//coins[i]
+        if tmp>0:
+            coin+=tmp
+        N%=coins[i]
+        i+=1
+    print(coin)
 ```
 
 Java Code:
