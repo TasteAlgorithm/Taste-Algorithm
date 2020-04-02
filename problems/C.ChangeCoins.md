@@ -48,7 +48,41 @@ Python Code:
 Java Code:
 
 ```java
-
+// 贪心法
+public class Main {
+ 
+    public static int func(int n) {
+        if (n == 1024) {
+            return 0;
+        }
+        n = 1024 - n;
+        int cnt = 0;
+        while (n > 0) {
+            if (n / 64 > 0) {
+                cnt += (n / 64);
+                n = n % 64;
+            }
+            if (n / 16 > 0) {
+                cnt += (n / 16);
+                n = n % 16;
+            }
+            if (n / 4 > 0) {
+                cnt += (n / 4);
+                n = n % 4;
+            }
+            if (n / 1 > 0) {
+                cnt += (n / 1);
+                n = n % 1;
+            }
+        }
+        return cnt;
+    }
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        System.out.println(func(n));
+    }
+}
 ```
 
 Javascript Code:
