@@ -67,7 +67,7 @@ function minCoinChange(amount) {
       while(total+coin<amount){
           // 找出去的零钱+遍历到的零钱<找钱总数时
           change.push(coin);
-          total += coin; // 统计以找出零钱总和
+          total += coin; // 统计已找出零钱总和
       }
   }
   return change; // 返回找钱结果
