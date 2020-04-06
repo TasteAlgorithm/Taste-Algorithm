@@ -68,8 +68,8 @@
 |1235|[Maximum Profit in JobScheduling](problems/1235.MaximumProfitinJobScheduling.md)|2020-01-29 && 2020-04-01|
 |56|[Merge Intervals](problems/56.MergeIntervals.md)|2020-01-30 && 2020-04-01|
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31 && 2020-04-03|
-|1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03|
-|703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03|
+|1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03 && 2020-04-06|
+|703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03 && 2020-04-06|
 |215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04|
 |264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05|
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
