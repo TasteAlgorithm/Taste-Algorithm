@@ -70,8 +70,8 @@
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31 && 2020-04-03|
 |1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03 && 2020-04-06|
 |703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03 && 2020-04-06|
-|215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04 && 2020-04-08 |
-|264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05|
+|215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04 && 2020-04-08|
+|264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05 && 2020-04-08|
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07|
 |933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10|
