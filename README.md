@@ -103,6 +103,7 @@
 |快手|[Get the Most Bonus](problems/C.GetTheMostBonus.md)|2020-03-24|
 |147|[Insertion Sort List](problems/147.InsertionSortList.md)|2020-03-31|
 |字节跳动|[Change Coins](problems/C.ChangeCoins.md)|2020-04-02|
+|字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
 
 
 # 一轮刷题模块
