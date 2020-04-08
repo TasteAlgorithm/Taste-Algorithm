@@ -70,8 +70,8 @@
 |用友|[Array Sort](problems/ArraySort.md)|2020-01-31 && 2020-04-03|
 |1046|[Last Stone Weight](problems/1046.LastStoneWeight.md)|2020-02-03 && 2020-04-06|
 |703|[Kth Largest Element In A Stream](problems/703.KthLargestElementInAStream.md)|2020-02-03 && 2020-04-06|
-|215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04|
-|264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05|
+|215|[Kth Largest Element in an Array](problems/215.KthLargestElementInAnArray.md)|2020-02-04 && 2020-04-08|
+|264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05 && 2020-04-08|
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06|
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07|
 |933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10|
@@ -103,7 +103,9 @@
 |快手|[Get the Most Bonus](problems/C.GetTheMostBonus.md)|2020-03-24|
 |147|[Insertion Sort List](problems/147.InsertionSortList.md)|2020-03-31|
 |字节跳动|[Change Coins](problems/C.ChangeCoins.md)|2020-04-02|
+|94|[Binary Tree Inorder Traversal](problems/94.BinaryTreeInorderTraversal.md)|2020-04-07|
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
+
 
 
 # 一轮刷题模块
