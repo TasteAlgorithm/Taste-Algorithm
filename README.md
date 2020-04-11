@@ -219,7 +219,7 @@
 - [highscalability](http://highscalability.com/)
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 - [OnlineJudge](https://github.com/QingdaoU/OnlineJudge)
-- [算法动图解释](https://visualgo.net/zh/sorting?slide=1)
+- [算法图解](https://visualgo.net/zh/sorting?slide=1)
 - [牛客网在线判题系统使用帮助](https://www.nowcoder.com/discuss/276)
 - [字节跳动-牛客网笔试真题](https://www.nowcoder.com/contestRoom?categories=-1&orderByHotValue=0&filter=0&mutiTagIds=665)
 
