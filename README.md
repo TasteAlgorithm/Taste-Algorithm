@@ -151,6 +151,7 @@
 |字节跳动|[Change Coins](problems/C.ChangeCoins.md)|2020-04-02|
 |94|[Binary Tree Inorder Traversal](problems/94.BinaryTreeInorderTraversal.md)|2020-04-07|
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
+|面试题17.09|[Get Kth Magic Number LCCI](problems/17.09.GetKthMagicNumberLCCI.md)|2020-04-14|
 
 # 刷题基金明细
 |金额|日期|
