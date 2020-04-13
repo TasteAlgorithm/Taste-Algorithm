@@ -120,8 +120,8 @@
 |264|[Ugly Number II](problems/264.UglyNumberII.md)|2020-02-05 && 2020-04-08|
 |23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06 && 2020-04-10|
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07 && 2020-04-10|
-|933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10|
-|641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11|
+|933|[Number of Recent Calls](problems/933.NumberOfRecentCalls.md)|2020-02-10 && 2020-04-13|
+|641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11 && 2020-04-13|
 |622|[Design Circular Queue](problems/622.DesignCircularQueue.md)|2020-02-12|
 |363|[Max Sum of Rectangle No Larger Than K](problems/363.MaxSumofRectangleNoLargerThanK.md)|2020-02-13|
 |字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14|
