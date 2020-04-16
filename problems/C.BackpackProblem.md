@@ -40,6 +40,22 @@
 Python Code:
 
 ```python
+def func(lst,n,w):
+    if w < 0:
+        return 0
+    if w == 0:
+        return 1
+    if sum(lst) < w:
+        return 2**n
+    return func(lst[:n - 1], n - 1, w) + func(lst[:n - 1], n - 1, w - lst[n - 1])
+while True:
+    try:
+        n, w = map(int, input().split())
+        lst = list(map(int, input().split()))
+        lst.sort()
+        print(func(lst, n, w))
+    except:
+        break
 
 ```
 
