@@ -71,8 +71,15 @@ knapSack = (capacity, weights, values, n) => { // 容量 物品依次重量 物�
           }
       }
   }
-  return kS[n][capacity];
+  findValues(n,capacity,kS,weights,values);
+  return n;
+  // console.log(n);
+  // return kS[n][capacity];
 };
+// test
+const values = [3,10], // 背包零食依次容量
+weights = []
 ```
 
 ## 扩展
+- [Tip](https://www.nowcoder.com/questionTerminal/d94bb2fa461d42bcb4c0f2b94f5d4281?f=discussion)
