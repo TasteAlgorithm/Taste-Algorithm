@@ -124,8 +124,8 @@
 |641|[Design Circular Deque](problems/641.DesignCircularDeque.md)|2020-02-11 && 2020-04-13|
 |622|[Design Circular Queue](problems/622.DesignCircularQueue.md)|2020-02-12 && 2020-04-15|
 |363|[Max Sum of Rectangle No Larger Than K](problems/363.MaxSumofRectangleNoLargerThanK.md)|2020-02-13 && 2020-04-15|
-|字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14 && 2020.04.17|
-|783|[Minimum Distance Between BST Nodes](problems/783.MinimumDistanceBetweenBSTNodes.md)|2020-02-17 && 2020.4.17|
+|字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14 && 2020-04-17|
+|783|[Minimum Distance Between BST Nodes](problems/783.MinimumDistanceBetweenBSTNodes.md)|2020-02-17 && 2020-04-17|
 |08.06|[Hanota LCCI](problems/08.06.HanotaLCCI.md)|2020-02-17|
 |894|[All Possible Full Binary Trees](problems/894.AllPossibleFullBinaryTrees.md)|2020-02-18|
 |08.05|[Recursive Mulitply LCCI](problems/08.05.RecursiveMulitplyLCCI.md)|2020-02-19|
