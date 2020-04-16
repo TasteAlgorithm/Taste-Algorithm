@@ -152,6 +152,8 @@
 |94|[Binary Tree Inorder Traversal](problems/94.BinaryTreeInorderTraversal.md)|2020-04-07|
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
 |面试题17.09|[Get Kth Magic Number LCCI](problems/17.09.GetKthMagicNumberLCCI.md)|2020-04-14|
+|牛牛的背包问题|[Niu Niu's backpack problem](problems/C.BackpackProblem.md)|2020-04-16|
+||||
 
 # 刷题基金明细
 |金额|日期|
