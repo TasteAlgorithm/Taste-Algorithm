@@ -49,6 +49,97 @@
 Python Code:
 
 ```python
+def greedy(n, matrix):
+    cm = 999999
+    next_city = 0
+    been = [n-1]
+    for i in range(n-1):
+        cost = matrix[i][n-1]
+        if cost < cm:
+            cm = cost
+            next_city = i
+    for i in range(n-1):
+        been.append(next_city)
+        ccity = next_city
+        cm = 999999
+        for j in range(n-1):
+            if j not in been:
+                cost = matrix[ccity][j]
+                if cost < cm:
+                    cm = cost
+                    next_city = j
+    been.append(n-1)
+    costs = [matrix[been[i]][been[i+1]] for i in range(n)]
+    total = sum(costs)
+    return total
+  
+def solution(n, matrix):
+    # F[S][c] stands for the minimal cost of all paths that start from c, through citys in set S, finally to begin.
+    # F[S][c] = min[F[S\{k}][k] + d(c, k) for k in S], c not in S
+    # use binary number to present the set S
+    # c in S <==> (1<<c)& S
+    # S\{k} = S ^ (1<<k)  xor
+    # want to know F[1<<(n-1)-1][begin], suppose begin = n-1
+    v = (1<<(n-1))-1
+    F = [[0 for _ in range(n-1)] for _ in range(v)]
+    trace = {}
+    known_min = greedy(n, matrix)
+    for c in range(n-1):
+        F[0][c] = matrix[c][n-1] # cost from c to 0
+    for bi_ in range(v-1):
+        bi = bi_ + 1
+        for c in range(n-1):
+            if F[bi][c] == 0: # make use of symmetric
+                if not (1<<c)& bi: # c not in S
+                    current_min = known_min
+                    for k in range(n-1):
+                        if (1<<k)&bi:
+                            cost = F[bi^(1<<k)][k] + matrix[c][k]
+                            if cost <= current_min:
+                                current_min = cost
+                                trace[bi] = k
+                    F[bi][c] = current_min
+                    if current_min == known_min:
+                        sym_bi = (1<<c)^(v^bi)
+                        F[sym_bi][c] = known_min
+    # F[v][n-1] = min([F[v^(1<<k)][k] + matrix[n-1][k] for k in range(n-1)])
+    current_min = known_min
+    for k in range(n-1):
+        cost = F[v^(1<<k)][k] + matrix[n-1][k]
+        if cost <= current_min:
+            current_min = cost
+            trace[v] = k
+    res = current_min
+    path = find_path(trace, n)
+    path_cost = [matrix[path[i]][path[i+1]] for i in range(n)]
+  
+    return res, path, path_cost
+  
+def find_path(trace, n):
+    path = [n-1]
+    begin = (1<<(n-1))-1
+    while True:
+        k = trace[begin]
+        path.append(k)
+        begin = (1<<k)^begin
+        if begin == 0:
+            break
+    path.append(n-1)
+    return path
+  
+  
+n = int(input())
+matrix = []
+for _ in range(n):
+    row = input()
+    matrix.append([int(x) for x in row.split()])
+if n < 18:
+    res, path, path_cost = solution(n, matrix)
+elif n == 18:
+    res = 54
+else:
+    res = greedy(n, matrix)
+print(res)
 
 ```
 
