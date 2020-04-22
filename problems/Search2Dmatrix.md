@@ -43,7 +43,35 @@ Python Code:
 Java Code:
 
 ```java
+class Solution {
+  public boolean searchMatrix(int[][] matrix, int target) {
+      // 可以将矩阵看成一个数组，但是不用真的建立一个数组
+        int m = matrix.length; // 矩阵的高
+        if (m == 0){ //  空矩阵
+            return false;
+        }
+        int n = matrix[0].length; // 矩阵的宽
 
+        // 对数组进行二分查找
+        int left = 0;
+        int right = m * n - 1;
+        int pivotIdx,pivotElement;
+        while (left <= right){
+            pivotIdx = (right + left)/2; // 中间点的下标
+            pivotElement = matrix[pivotIdx/n][pivotIdx%n]; //从矩阵中找到值
+            if (target == pivotElement) {
+                return true;
+            } else {
+                if (target < pivotElement) {
+                    right = pivotIdx - 1;
+                }else {
+                    left = pivotIdx + 1;
+                }
+            }
+        }
+        return false;
+    }
+}
 ```
 
 Javascript Code:
