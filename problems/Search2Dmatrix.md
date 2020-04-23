@@ -43,6 +43,16 @@ Python Code:
 Java Code:
 
 ```java
+/**
+*  二分法时间复杂度分析
+*  对于n个元素的情况
+*  第一次二分遍历的个数：n/2
+*  第二次二分遍历的个数：n/2^2=n/4
+*  第m次二分遍历的个数：n/2^m
+*  时间复杂度最大为O(log(n))
+*            最小为O(1)
+*  空间复杂度为O(1)
+*/
 class Solution {
   public boolean searchMatrix(int[][] matrix, int target) {
       // 可以将矩阵看成一个数组，但是不用真的建立一个数组
