@@ -79,7 +79,6 @@
 |困难-761|[SpecialBinaryString](problems/761.SpecialBinaryString.md)|2020-02-20|
 |招行|[The best time to buy and sell bitcoin](problems/C.TheBestTimeToBuyAndSellBitcoin.md)|2020-02-21|
 |中等-22|[generate-parentheses](problems/22.GenerateParentheses.md)|2020-04-21|
-|搜索二维矩阵|[Search 2D matrix](problems/Search2Dmatrix.md)|2020-04-23|
 
 # 查找(树、二分查找及变形）
 |序号|题目&解析|日期|
@@ -89,6 +88,7 @@
 |中等-1300|[Sum of Mutated Array Closest to Target](problems/1300.SumofMutatedArrayClosesttoTarget.md)|2020-02-25|
 |中等-153|[Find Minimum in Rotated Sorted Array](problems/153.FindMinimuminRotatedSortedArray.md)|2020-02-26|
 |困难-154|[Find Minimum in Rotated Sorted Array II](problems/154.FindMinimumInRotatedSortedArrayII.md)|2020-02-27|
+|中等-74|[Search 2D matrix](problems/74.Search2Dmatrix.md)|2020-04-23|
 
 # 逆波兰式
 |序号|题目&解析|日期|
