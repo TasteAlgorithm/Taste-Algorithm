@@ -83,8 +83,8 @@
 # 查找(树、二分查找及变形）
 |序号|题目&解析|日期|
 |--|--|--|
-|简单-53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24|
-|简单-1337|[The K Weakest Rows in a Matrix](problems/1337.TheKWeakestRowsinaMatrix.md)|2020-02-24|
+|简单-53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24 && 2020-04-27|
+|简单-1337|[The K Weakest Rows in a Matrix](problems/1337.TheKWeakestRowsinaMatrix.md)|2020-02-24  && 2020-04-27|
 |中等-1300|[Sum of Mutated Array Closest to Target](problems/1300.SumofMutatedArrayClosesttoTarget.md)|2020-02-25|
 |中等-153|[Find Minimum in Rotated Sorted Array](problems/153.FindMinimuminRotatedSortedArray.md)|2020-02-26|
 |困难-154|[Find Minimum in Rotated Sorted Array II](problems/154.FindMinimumInRotatedSortedArrayII.md)|2020-02-27|
