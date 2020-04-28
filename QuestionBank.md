@@ -80,7 +80,7 @@
 |招行|[The best time to buy and sell bitcoin](problems/C.TheBestTimeToBuyAndSellBitcoin.md)|2020-02-21|
 |中等-22|[generate-parentheses](problems/22.GenerateParentheses.md)|2020-04-21|
 
-# 查找(树、二分查找及变形）
+# 查找（二分查找及变形）
 |序号|题目&解析|日期|
 |--|--|--|
 |简单-53-I|[LCOF](problems/53-I.LCOF.md)|2020-02-24 && 2020-04-27|
