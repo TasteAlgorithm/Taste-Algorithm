@@ -90,7 +90,7 @@
 |困难-154|[Find Minimum in Rotated Sorted Array II](problems/154.FindMinimumInRotatedSortedArrayII.md)|2020-02-27|
 |中等-74|[Search 2D matrix](problems/74.Search2Dmatrix.md)|2020-04-23|
 |中等-287|[Find the Duplicate Number](problems/287.FindTheDuplicateNumber.md)|2020-04-28|
-
+|字节跳动|[Robot jumping problem](problems/C.RobotJumpingProblem.md)|2020-04-30|
 # 逆波兰式
 |序号|题目&解析|日期|
 |--|--|--|
