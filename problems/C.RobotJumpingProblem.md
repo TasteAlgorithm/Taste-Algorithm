@@ -62,8 +62,14 @@
 
 
 ## 思路
-- 机器人从高点跳到低点就是增加能量
-- 机器人从低点跳到高点就是减少能量
+- 机器人从高点跳到低点就是增加能量（能量 + （能量 - 高度））
+- 机器人从低点跳到高点就是减少能量（能量 - （高度 - 能量））
+- 在给定的数据范围给的是0~10^5间用二分法来找到最合适的那个数据值，每次找到一个之后，就推算一遍看看这个能量值能不能跳到最后（跳到最后的条件就是能量值不会为负数）
+- 用二分查找来找到最小能量值，start=0，end=max(H),高度小于能量值时，能量只增不减，最大值为max(H)
+- 遍历建筑物，更新E值，若中间E小于0，则更新start=mid+1；
+- 反之end=mid；
+-  最后返回end
+
 
 ## 关键点解析
 - 二分查找
@@ -94,9 +100,52 @@ Java Code:
 ```
 
 Javascript Code:
-
+- [参考](https://www.acwing.com/solution/acwing/content/8410/)
+- 如果h > E,那么 E = E - (h - E) = 2E - h
+- 否则 E = E + E - h = 2E - h
+假设当前位置为k，能量为E（k）。
+当 H(k+1) > E（k）时，E（k+1）=E（k）-[H(k+1）-E（k）]
+当 H(k+1) <= E（k）时，E（k+1）=E（k）+[E（k）-H(k+1）]
+整理后两式均为： E（k+1）=2*E（k）-H(k+1）
+E（k）=(E（k+1）+H(k+1))/2
+**二分法**
 ```js
+const N = 1e5+10; // 100010
+let h[N],n; //h[N]记录塔高
+check=(e)=>{
+    for(let i =1;i<=n;i++){
+        e=e*2-h[i];
+        if(e>=1e5) return true;
+        if(e<0) return false;
+    }
+    return true;
+}
+(function main(){
+    for(let i=1;i<=n;i++){
+        console.log(h[i]);
+    }
+    let l  =0;r = 1e5; //0-100000 在可选择范围内
+    while(l<r){
+        const mid = l+r;
+        if(check(mid)){
+            r = mid; // 找最小值，所以肯定是r=mid
+        }else{
+            l= mid+1;
+        }
+        console.log(r);
+        return 0;
+    }
+})()
+```
 
+**总计公示**
+```js
+const arr = list(map(int,input().split()))
+let E = 0
+arr.reverse()
+for(let H in arr){
+    E = math.ceil((E+H)/2)
+}
 ```
 
 
