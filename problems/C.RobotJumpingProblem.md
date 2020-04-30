@@ -75,6 +75,15 @@
 Python Code:
 
 ```python
+import math
+N = int(input())
+heights = list(map(int, input().split()))
+if len(heights) == 0:
+    print(0)
+ans = 0 #最后的能量恰好为0，保证初始能量为最少
+for i in range(len(heights) - 1,-1,-1):
+    ans = math.ceil((heights[i] + ans) / 2)
+print(math.ceil(ans))
 
 ```
 
