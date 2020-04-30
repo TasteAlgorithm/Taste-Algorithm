@@ -90,7 +90,31 @@ print(math.ceil(ans))
 Java Code:
 
 ```java
+public class RobotJumpingProblem {
+    public static void main(String[] args) {
+        //输入所需要进行运算的值
+        Scanner input = new Scanner(System.in);
+        int N = input.nextInt();
+        int[] H = new int[N+1];
+        H[0] = 0;
+        for(int i = 1; i < N+1; i++) {
+            H[i] = input.nextInt();
+        }
+        //关闭输入
+        input.close();
+        System.out.println(Solution(N, H));
+    }
+    //写一个进行计算的方法方法
+    public static int Solution(int N, int[] H) {
+        int[] E = new int[N+1];
+        E[N] = 0;
+        for(int i = N; i > 0; i--) {
+            E[i-1] = (H[i] + E[i] + 1) / 2;
+        }
+        return E[0];
+    }
 
+}
 ```
 
 Javascript Code:
