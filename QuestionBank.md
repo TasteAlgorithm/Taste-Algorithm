@@ -101,7 +101,7 @@
 |--|--|--|
 |中等-309|[Best Time to Buy and Sell Stock with Cooldown](problems/309.BestTimetoBuyandSellStockwithCooldown.md)|2020-03-03 && 2020-05-04|
 |简单-70|[Climbing Stairs](problems/70.ClimbingStairs.md)|2020-03-04 && 2020-05-04|
-|简单-198|[House Robber](problems/198.HouseRobber.md)|2020-03-04|
-|困难-188|[Best Time to Buy and Sell Stock IV](problems/188.BestTimetoBuyandSellStockIV.md)|2020-03-05|
+|简单-198|[House Robber](problems/198.HouseRobber.md)|2020-03-04 && 2020-05-06|
+|困难-188|[Best Time to Buy and Sell Stock IV](problems/188.BestTimetoBuyandSellStockIV.md)|2020-03-05 && 2020-05-06|
 |美团|[The Strategy Of Test](problems/C.TheStrategyOfTest.md)|2020-03-06|
 |中等-375|[Guess Number Higher or Lower II](problems/375.GuessNumberHigherorLowerII.md)|2020-05-05|
