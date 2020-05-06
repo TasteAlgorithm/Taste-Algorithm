@@ -105,3 +105,4 @@
 |困难-188|[Best Time to Buy and Sell Stock IV](problems/188.BestTimetoBuyandSellStockIV.md)|2020-03-05 && 2020-05-06|
 |美团|[The Strategy Of Test](problems/C.TheStrategyOfTest.md)|2020-03-06|
 |中等-375|[Guess Number Higher or Lower II](problems/375.GuessNumberHigherorLowerII.md)|2020-05-05|
+|蘑菇街|[The Way Of Grid](problems/C.TheWayOfGrid.md)|2020-05-07|
