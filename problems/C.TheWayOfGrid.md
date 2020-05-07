@@ -37,7 +37,39 @@ Python Code:
 Java Code:
 
 ```java
+ /** 思路：动态规划法
+ * 第一行和第一列的走法全为1，其他空格的走法为上方空格的走法加上左方空格的走法，可以画表来直观的看出
+ *
+ * 注意点：
+ * 只能在格点上走，也就是可以看成是（x+1）*（y+1）个格子，在格子上走
+ **/
+public class TheWayOfGrid {
+    
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int x,y;
+        x = scanner.nextInt();
+        y = scanner.nextInt();
 
+        // 首先定义一个二维数组，数组内的值为这点的走法
+        int[][] ints = new int[x + 1][y + 1];
+        // 初始化第一行全为1
+        for(int i = 0;i < y + 1;i ++){
+            ints[0][i] = 1;
+        }
+        // 初始化第一列全为1
+        for(int i = 0;i < x + 1;i ++){
+            ints[i][0] = 1;
+        }
+        // 从ints[1][1]起，这点的走法等于左方的点和上方的点的走法的和
+        for(int i = 1;i < x + 1;i ++){
+            for (int j = 1;j < y + 1;j ++) {
+                ints[i][j] = ints[i - 1][j] + ints[i][j - 1];
+            }
+        }
+        System.out.println(ints[x][y]);
+    }
+}
 ```
 
 Javascript Code:
