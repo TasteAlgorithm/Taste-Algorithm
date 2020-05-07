@@ -31,6 +31,20 @@
 Python Code:
 
 ```python
+""""
+动态规划，dp[x][y]表示所有走法的数目
+到达x,y点的路径只有两条，从上边和从左边
+dp[x][y] = dp[x - 1][y] + dp[x][y - 1]
+边界 dp[0][y] = dp[x][0] = 1
+"""
+  
+if __name__ == "__main__":
+    n, m = map(int, input().strip().split())
+    dp = [[1] * (m + 1) for _ in range(n + 1)]
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            dp[i][j] = dp[i - 1][j] + dp[i][j - 1]
+    print(dp[n][m])
 
 ```
 
