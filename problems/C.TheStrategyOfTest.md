@@ -73,7 +73,6 @@ public class TheStrategyOfTest {
 ```
 
 Javascript Code:
-**待理解**
 ```js
 let N = parseInt(readline()); // readline()为牛客网针对传统ACM题的输入
 let value = new Array(N).fill(0).map(()=> new Array(2).fill(0))
