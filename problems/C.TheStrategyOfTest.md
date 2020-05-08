@@ -42,7 +42,24 @@
 Python Code:
 
 ```python
-
+def have_time_do_this(l):#suppose solutions for subset of item is know
+    dp = [0]*121 #from 1 to 120
+    for t1,s1,t2,s2 in l:
+        m =120
+        while m >=0:
+            if m>=t2:
+                dp[m] = max(dp[m],dp[m-t2]+s2,dp[m-t1]+s1)
+            elif m >=t1:
+                dp[m] = max(dp[m],dp[m-t1]+s1)
+            else:
+                break
+            m-=1
+    return dp[-1]
+n = int(input())
+l = []
+for i in range(n):
+    l.append(list(map(int,input().split())))
+print(have_time_do_this(l))
 ```
 
 Java Code:
