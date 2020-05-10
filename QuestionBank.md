@@ -69,6 +69,9 @@
 |中等-17.09|[Get Kth Magic Number LCCI](problems/17.09.GetKthMagicNumberLCCI.md)|2020-04-14|
 |牛牛的背包问题|[Niu Niu's backpack problem](problems/C.BackpackProblem.md)|2020-04-16|
 
+# 链表
+|序号|题目&解析|日期|
+
 # 递归(单链表翻转)
 |序号|题目&解析|日期|
 |--|--|--|
