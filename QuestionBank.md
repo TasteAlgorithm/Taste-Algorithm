@@ -13,6 +13,7 @@
 |字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12|
 |简单-874|[Walking Robot Simulation](problems/874.WalkingRobotSimulation.md)|2020-05-11|
 |简单-392|[Is subsequence](problems/392.IsSubsequence.md)|2020-05-12|
+|简单-944|[delete columns to make sorted](problems/944.delete-columns-to-make-sorted.md)|2020-05-13|
 
 # DFS深度优先搜索算法(树的前中后序遍历)
 |序号|题目&解析|日期|
