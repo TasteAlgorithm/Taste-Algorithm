@@ -27,7 +27,7 @@
 |大疆|[TestDataSegmentation](problems/C.TestDataSegmentation.md)|2020-01-17 && 2020-03-20| 
 |中等-109|[Convert Sorted List to Binary Search Tree](problems/109.ConvertSortedListToBinarySearchTree.md)|2020-03-17|
 |网易|[Expression evaluation](problems/C.ExpressionEvaluation.md)|2020-03-18|
-|简单-104|[Maximum Depth of Binary Tree](problems)||
+|简单-104|[Maximum Depth of Binary Tree](problems/104.MaximumDepthOfBinaryTree.md)|2020-05-18|
 
 # BFS广度优先搜索算法
 |序号|题目&解析|日期|
