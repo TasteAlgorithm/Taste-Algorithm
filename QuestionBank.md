@@ -29,6 +29,7 @@
 |网易|[Expression evaluation](problems/C.ExpressionEvaluation.md)|2020-03-18|
 |简单-104|[Maximum Depth of Binary Tree](problems/104.MaximumDepthOfBinaryTree.md)|2020-05-18|
 |简单-112|[Path Sum](problems/112.PathSum.md)|2020-05-19|
+|中等-129|[Sum Root to Leaf Numbers](problems/129.SumRootToLeafNumbers.md)|2020-05-20|
 
 # BFS广度优先搜索算法
 |序号|题目&解析|日期|
