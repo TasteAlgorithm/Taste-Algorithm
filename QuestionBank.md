@@ -45,6 +45,7 @@
 |快手|[Get the Most Bonus](problems/C.GetTheMostBonus.md)|2020-03-24|
 |中等-200|[Number of Islands](problems/200.NumberofIslands.md)|2020-05-25|
 |中等-542|[01 Matrix](problems/542.01Matrix.md)|2020-05-26|
+|中等-286|[Walls and Gates](problems/286.WallsandGates.md)|2020-05-27|
 
 # 排序(快排、归并)
 |序号|题目&解析|日期|
