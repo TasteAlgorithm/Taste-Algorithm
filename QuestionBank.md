@@ -77,6 +77,7 @@
 |困难-23|[Merge k Sorted Lists](problems/23.MergekSortedLists.md)|2020-02-06 && 2020-04-10|
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07 && 2020-04-10|
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
+|简单-20|[Valid Parentheses](problems/20.ValidParentheses.md)|2020-06-08|
 
 # 队列
 |序号|题目&解析|日期|
