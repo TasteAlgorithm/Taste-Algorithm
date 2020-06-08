@@ -78,6 +78,7 @@
 |网易|[迷路的牛牛](problems/C.2019NetEase1.md)|2020-02-07 && 2020-04-10|
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
 |简单-20|[Valid Parentheses](problems/20.ValidParentheses.md)|2020-06-08|
+|简单-232|[Implement Queue using Stacks](problems/232.ImplementQueueUsingStacks.md)|2020-06-09|
 
 # 队列
 |序号|题目&解析|日期|
