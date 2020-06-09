@@ -79,6 +79,7 @@
 |字节跳动|[Smart Editor](problems/C.SmartEditor.md)|2020-04-09|
 |简单-20|[Valid Parentheses](problems/20.ValidParentheses.md)|2020-06-08|
 |简单-232|[Implement Queue using Stacks](problems/232.ImplementQueueUsingStacks.md)|2020-06-09|
+|中等-347|[Top K Frequent Elements](problems/347.TopKFrequentElements.md)|2020-06-10|
 
 # 队列
 |序号|题目&解析|日期|
