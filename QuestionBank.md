@@ -93,6 +93,7 @@
 |字节跳动|[Mini Cost Of Graduation Travel](problems/C.MiniCostOfGraduationTravel.md)|2020-02-14 && 2020-04-17|
 |中等-17.09|[Get Kth Magic Number LCCI](problems/17.09.GetKthMagicNumberLCCI.md)|2020-04-14|
 |牛牛的背包问题|[Niu Niu's backpack problem](problems/C.BackpackProblem.md)|2020-04-16|
+|简单-346|[Moving Average from Data Stream](problems/346.MovingAveragefromDataStream.md)|2020-06-15|
 
 # 链表
 |序号|题目&解析|日期|
