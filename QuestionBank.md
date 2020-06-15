@@ -94,6 +94,7 @@
 |中等-17.09|[Get Kth Magic Number LCCI](problems/17.09.GetKthMagicNumberLCCI.md)|2020-04-14|
 |牛牛的背包问题|[Niu Niu's backpack problem](problems/C.BackpackProblem.md)|2020-04-16|
 |简单-346|[Moving Average from Data Stream](problems/346.MovingAveragefromDataStream.md)|2020-06-15|
+|中等-582|[Kill Process](problems/582.KillProcess.md)|2020-06-16|
 
 # 链表
 |序号|题目&解析|日期|
