@@ -95,6 +95,7 @@
 |牛牛的背包问题|[Niu Niu's backpack problem](problems/C.BackpackProblem.md)|2020-04-16|
 |简单-346|[Moving Average from Data Stream](problems/346.MovingAveragefromDataStream.md)|2020-06-15|
 |中等-582|[Kill Process](problems/582.KillProcess.md)|2020-06-16|
+|中等-353|[Design Snake Game](problems/353.DesignSnakeGame.md)|2020-06-17|
 
 # 链表
 |序号|题目&解析|日期|
