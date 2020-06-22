@@ -102,6 +102,7 @@
 |--|--|--|
 |中等-2|[Add Two Numbers](problems/2.AddTwoNumbers.md)|2020-06-18|
 |中等-92|[Reverse Linked List II](problems/92.ReverseLinkedListII.md)|2020-06-19|
+|中等-24|[Swap Nodes in Pairs](problems/24.SwapNodesInPairs.md)|2020-06-22|
 
 # 递归(单链表翻转)
 |序号|题目&解析|日期|
