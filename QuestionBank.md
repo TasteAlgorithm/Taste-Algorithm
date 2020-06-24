@@ -104,6 +104,7 @@
 |中等-92|[Reverse Linked List II](problems/92.ReverseLinkedListII.md)|2020-06-19|
 |中等-24|[Swap Nodes in Pairs](problems/24.SwapNodesInPairs.md)|2020-06-22|
 |中等-143|[Reorder List](problems/143.ReorderList.md)|2020-06-23|
+|简单-21|[Merge Two Sorted Lists](problems/21.MergeTwoSortedLists.md)|2020-06-24|
 
 # 递归(单链表翻转)
 |序号|题目&解析|日期|
