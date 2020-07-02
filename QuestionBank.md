@@ -122,6 +122,8 @@
 |中等-247|[Strobogrammatic Number II](problems/247.StrobogrammaticNumberII.md)|2020-06-30|
 |中等-698|[Partition to K Equal Sum Subsets](problems/698.PartitiontoKEqualSumSubsets.md)|2020-07-01|
 |中等-544|[Output Contest Matches](problems/544.OutputContestMatches.md)|2020-07-02|
+|中等-794|[Valid Tic-Tac-Toe State](problems/794.ValidTic-Tac-ToeState.md)|2020-07-03|
+
 
 # 查找（二分查找及变形）
 |序号|题目&解析|日期|
