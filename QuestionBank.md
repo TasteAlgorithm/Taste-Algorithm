@@ -136,6 +136,7 @@
 |中等-74|[Search 2D matrix](problems/74.Search2Dmatrix.md)|2020-04-23 && 2020-05-01|
 |中等-287|[Find the Duplicate Number](problems/287.FindTheDuplicateNumber.md)|2020-04-28|
 |字节跳动|[Robot jumping problem](problems/C.RobotJumpingProblem.md)|2020-04-30|
+|中等-33|[Search in Rotated Sorted Array](problems/33.SearchInRotatedSortedArray.md)|2020-07-06|
 # 逆波兰式
 |序号|题目&解析|日期|
 |--|--|--|
