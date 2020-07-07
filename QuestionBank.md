@@ -137,6 +137,7 @@
 |中等-287|[Find the Duplicate Number](problems/287.FindTheDuplicateNumber.md)|2020-04-28|
 |字节跳动|[Robot jumping problem](problems/C.RobotJumpingProblem.md)|2020-04-30|
 |中等-33|[Search in Rotated Sorted Array](problems/33.SearchInRotatedSortedArray.md)|2020-07-06|
+|中等-300|[Longest Increasing Subsequence](problems/300.LongestIncreasingSubsequence.md)|2020-07-07|
 # 逆波兰式
 |序号|题目&解析|日期|
 |--|--|--|
