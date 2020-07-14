@@ -158,3 +158,4 @@
 |蘑菇街|[The Way Of Grid](problems/C.TheWayOfGrid.md)|2020-05-07|
 |中等-64|[Minimum Path Sum](problems/64.MinimumPathSum.md)|2020-07-13|
 |简单-53|[Maximum Subarray](problems/53.MaximumSubarray.md)|2020-07-14|
+|中等-152|[Maximum Product Subarray](problems/152.MaximumProductSubarray.md)|2020-07-15|
