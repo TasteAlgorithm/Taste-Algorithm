@@ -159,3 +159,4 @@
 |中等-64|[Minimum Path Sum](problems/64.MinimumPathSum.md)|2020-07-13|
 |简单-53|[Maximum Subarray](problems/53.MaximumSubarray.md)|2020-07-14|
 |中等-152|[Maximum Product Subarray](problems/152.MaximumProductSubarray.md)|2020-07-15|
+|中等-96|[Unique Binary Search Trees](problems/96.UniqueBinarySearchTrees.md)|2020-07-16|
