@@ -7,8 +7,8 @@
 |中等-714|[best-time-to-buy-and-sell-stock-with-transaction-fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)|2020-01-06 && 2020-03-11|
 |简单-860|[lemonade-change](problems/860.lemonade-change.md)|2020-01-07 && 2020-03-13|
 |中等-1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08 && 2020-03-13|
-|中等-1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09|
-|中等-621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10|
+|中等-1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09 && 2020-07-20|
+|中等-621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10 && 2020-07-20|
 |中等-134|[Gas Station](problems/134.GasStation.md)|2020-03-10|
 |字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12|
 |简单-874|[Walking Robot Simulation](problems/874.WalkingRobotSimulation.md)|2020-05-11|
