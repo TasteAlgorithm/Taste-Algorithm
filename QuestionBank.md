@@ -9,13 +9,13 @@
 |中等-1282|[Group the People Given the Group Size They Belong To](problems/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)|2020-01-08 && 2020-03-13|
 |中等-1094|[Car Pooling](problems/1094.%20Car%20Pooling.md)|2020-01-09 && 2020-07-20|
 |中等-621|[Task Scheduler](problems/621.%20Task%20Scheduler.md)|2020-01-10 && 2020-07-20|
-|中等-134|[Gas Station](problems/134.GasStation.md)|2020-03-10|
-|字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12|
-|简单-874|[Walking Robot Simulation](problems/874.WalkingRobotSimulation.md)|2020-05-11|
-|简单-392|[Is subsequence](problems/392.IsSubsequence.md)|2020-05-12|
-|简单-944|[delete columns to make sorted](problems/944.delete-columns-to-make-sorted.md)|2020-05-13|
-|简单-1221|[Split a String in Balanced Strings](problems/1221.Split-a-String-in-Balanced-Strings.md)|2020-05-14|
-|简单-1217|[Play with Chips](problems/1217.Play-with-Chips.md)|2020-05-15|
+|中等-134|[Gas Station](problems/134.GasStation.md)|2020-03-10 && 2020-07-21|
+|字节跳动|[Room Allocation](problems/C.RoomAllocation.md)|2020-03-12 && 2020-07-21|
+|简单-874|[Walking Robot Simulation](problems/874.WalkingRobotSimulation.md)|2020-05-11 && 2020-07-22|
+|简单-392|[Is subsequence](problems/392.IsSubsequence.md)|2020-05-12 && 2020-07-22|
+|简单-944|[delete columns to make sorted](problems/944.delete-columns-to-make-sorted.md)|2020-05-13 && 2020-07-23|
+|简单-1221|[Split a String in Balanced Strings](problems/1221.Split-a-String-in-Balanced-Strings.md)|2020-05-14 && 2020-07-23|
+|简单-1217|[Play with Chips](problems/1217.Play-with-Chips.md)|2020-05-15 && 2020-07-24|
 
 # DFS深度优先搜索算法(树的前中后序遍历)
 |序号|题目&解析|日期|
