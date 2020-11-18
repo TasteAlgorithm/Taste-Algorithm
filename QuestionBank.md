@@ -83,6 +83,7 @@
 |中等-503|[Next Greater Element II](problems/503.NextGreaterElementII.md)|2020-06-11|
 |中等-355|[Design Twitter](problems/355.DesignTwitter.md)|2020-06-12|
 |简单-NC52|[Bracket Sequence](problems/NC52.BracketSequence.md)|2020-11-18|
+|中等-NC88|[Find Kth Number](problems/NC88.FindKthNumber.md)|2020-11-18|
 
 
 # 队列
@@ -109,6 +110,7 @@
 |简单-21|[Merge Two Sorted Lists](problems/21.MergeTwoSortedLists.md)|2020-06-24|
 |中等-454|[Add Two Numbers II](problems/445.AddTwoNumbersII.md)|2020-06-25|
 |中等-02.04|[Partition List LCCI](problems/02.04.PartitionListLCCI.md)|2020-06-26|
+|简单-NC78|[Reverse Linked](problems/NC78.ReverseLinked.md)|2020-11-18|
 
 # 递归(单链表翻转)
 |序号|题目&解析|日期|
