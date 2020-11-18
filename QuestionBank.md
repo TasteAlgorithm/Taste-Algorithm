@@ -82,6 +82,8 @@
 |中等-347|[Top K Frequent Elements](problems/347.TopKFrequentElements.md)|2020-06-10|
 |中等-503|[Next Greater Element II](problems/503.NextGreaterElementII.md)|2020-06-11|
 |中等-355|[Design Twitter](problems/355.DesignTwitter.md)|2020-06-12|
+|简单-NC52|[Bracket Sequence](problems/NC52.BracketSequence.md)|2020-11-18|
+
 
 # 队列
 |序号|题目&解析|日期|
